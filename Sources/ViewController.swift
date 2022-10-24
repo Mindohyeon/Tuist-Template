@@ -8,9 +8,6 @@
 
 import UIKit
 
-class firstViewController: UIViewController {
-    override func viewDidLoad() {
-        view.backgroundColor = .blue
-        print("hi")
-    }
+class ViewController: UIViewController {
+
 }
