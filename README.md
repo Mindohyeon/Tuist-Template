@@ -10,5 +10,8 @@ make generate
 커맨드 입력으로 ```.xcodeproj``` 와 ```.xcworkspace``` 생성하기
 
 
-- 프로젝트 구조 설정
-```tuist edit```
+
+### 프로젝트 구조 설정
+```
+tuist edit
+```
